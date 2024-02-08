@@ -1,0 +1,174 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Johnson - Kutch",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis qui modi qui.",
+      "imageUrl": "/assets/images/port-1.png",
+      "contractTypeId": 3,
+      "contractSignedOn": "2013-08-04T22:39:41.473Z",
+      "budget": 54637,
+      "isActive": false
+    },
+    {
+      "id": 2,
+      "name": "Dillesik LLCs",
+      "description": "Re-contextualized dynamic moratorium. Aut nulla soluta numquam qui dolor architecto et facere dolores.",
+      "imageUrl": "/assets/images/port-1.png",
+      "contractTypeId": 6,
+      "contractSignedOn": "2016-06-26T18:24:01.706Z",
+      "budget": 29729,
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Purdy, Keeling and Smithams",
+      "description": "Innovative 6th generation model. Perferendis libero qui iusto et ullam cum sint molestias vel.",
+      "imageUrl": "/assets/images/port-1.png",
+      "contractTypeId": 4,
+      "contractSignedOn": "2013-05-26T01:10:42.344Z",
+      "budget": 45660,
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Kreiger - Waelchis",
+      "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+      "imageUrl": "/assets/images/port-1.png",
+      "contractTypeId": 2,
+      "contractSignedOn": "2009-12-18T21:46:47.944Z",
+      "budget": 81188,
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Crona Inc",
+      "description": "Monitored explicit methodology. Rem quos maxime amet autem beatae quisquam excepturi sint velit.",
+      "imageUrl": "/assets/images/port-1.png",
+      "contractTypeId": 1,
+      "contractSignedOn": "2016-11-14T19:19:53.624Z",
+      "budget": 31350,
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "name": "Breitenberg - Mitchell",
+      "description": "Profound upward-trending product. Neque necessitatibus quia aut autem suscipit laborum eos saepe veritatis.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 7,
+      "name": "Christiansen LLC",
+      "description": "Customer-focused composite implementation. Rerum ullam est voluptate hic eligendi autem rerum cum et.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 8,
+      "name": "Halvorson, Fadel and Zieme",
+      "description": "Triple-buffered transitional encoding. Amet illum quis expedita ut repudiandae et aut sit quia.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 9,
+      "name": "Lesch - Waelchi",
+      "description": "Profound mobile project. Rem consequatur laborum explicabo sint odit et illo voluptas expedita.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 10,
+      "name": "Kihn and Sons",
+      "description": "Multi-layered grid-enabled local area network. Accusamus numquam neque incidunt perspiciatis consequuntur beatae excepturi iure officiis.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 11,
+      "name": "Kreiger Inc",
+      "description": "Profound national matrices. Nam omnis perspiciatis cumque voluptate sequi vel voluptate alias quia.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 12,
+      "name": "Jones, Boyle and Reichel",
+      "description": "Cross-platform high-level hierarchy. Ut recusandae sint accusamus nam sunt repellendus nihil soluta ipsam.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 13,
+      "name": "Pollich Group",
+      "description": "Ergonomic heuristic firmware. Commodi dolore vel et quasi tenetur perspiciatis sit dolor itaque.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 14,
+      "name": "Bruen and Sons",
+      "description": "Switchable composite strategy. Non accusamus quo ipsam animi unde quas ut et voluptate.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 15,
+      "name": "Weissnat - Reynolds",
+      "description": "Vision-oriented regional workforce. Velit eum tempora natus magnam doloremque id quis natus quibusdam.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 16,
+      "name": "Haag - O'Keefe",
+      "description": "Vision-oriented dedicated knowledge user. Et rem vero et exercitationem et veritatis accusamus id optio.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 17,
+      "name": "Murray, Gutmann and Ankunding",
+      "description": "Implemented next generation flexibility. Enim quibusdam voluptatibus eum enim quas commodi et corporis id.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 18,
+      "name": "Kutch Group",
+      "description": "Decentralized explicit conglomeration. Reprehenderit possimus tempora vel quis non ea officiis quia a.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 19,
+      "name": "Moen, Volkman and Jacobson",
+      "description": "Reactive attitude-oriented contingency. Dolorum dolorem esse est voluptas provident sunt quidem laboriosam delectus.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 20,
+      "name": "Durgan and Sons",
+      "description": "Universal incremental definition. Voluptatem dolores distinctio qui blanditiis impedit dolores maiores rerum et.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 21,
+      "name": "Mueller and Sons",
+      "description": "Intuitive bifurcated flexibility. Necessitatibus aliquam asperiores qui facere voluptatum esse velit aut distinctio.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 22,
+      "name": "Rolfson, Kertzmann and Block",
+      "description": "Optional context-sensitive concept. Tempore nam saepe aperiam neque id et fugiat aut beatae.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 23,
+      "name": "Gleichner Inc",
+      "description": "Seamless incremental knowledge base. Nobis optio omnis esse qui doloremque non odit voluptatem molestiae.",
+      "imageUrl": "/assets/images/port-1.png"
+    },
+    {
+      "id": 24,
+      "name": "Carroll - O'Keefe",
+      "description": "Implemented foreground instruction set. Dolores temporibus libero non quos voluptas quis sapiente dolores deserunt.",
+      "imageUrl": "/assets/images/hero.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Kuhic Inc",
+      "description": "Balanced intermediate task-force. Dolor cupiditate autem tenetur esse quis dolorem veniam fugiat qui.",
+      "imageUrl": "/assets/images/port-1.png"
+    }
+  ]
+}

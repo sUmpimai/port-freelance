@@ -1,0 +1,43 @@
+/*@import '../node_modules/mini.css/dist/mini-default.min.css';*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('/public/assets/fonts/Poppins-Light.ttf') format(''truetype'');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('/public/assets/fonts/Poppins-SemiBold.ttf') format(''truetype'');
+  font-weight: 600;
+  font-style: bold;
+}
+
+body {
+  font-family: 'Poppin', sans-serif;
+  font-weight: 300;
+  color: #334155;
+  font-size: 16px;
+}
+
+html,
+body,
+#root,
+.container,
+.center-page {
+  height: 100%;
+}
+
+.center-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+    min-width: 300px;
+}
