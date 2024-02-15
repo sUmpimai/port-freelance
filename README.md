@@ -1,3 +1,4 @@
-<img width="1433" alt="Screen Shot 2567-02-08 at 12 42 25" src="https://github.com/sUmpimai/port-freelance/assets/31444616/d3aab06d-03a8-40a0-9f7e-8b4724c04dfb">
+<img width="1429" alt="Screen Shot 2567-02-15 at 12 21 55" src="https://github.com/sUmpimai/port-freelance/assets/31444616/f4091ee2-3df4-4d6f-8771-fd293295abdd">
+
 
 React, TypeScript and Tailwind 
