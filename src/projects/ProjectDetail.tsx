@@ -11,19 +11,23 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
       <div className="grid grid-cols-3 gap-4 lg:gap-4 pb-10">
         <div>
           <h3 className='font-bold text-2xl'>Platforms</h3>
-          <p>Web application</p>
+          <p>{project.platform}</p>
         </div>
         <div>
           <h3 className='font-bold text-2xl'>Deliverables</h3>
-          <p>HTML, CSS, JS</p>
+          <p>{project.deliver}</p>
         </div>
         <div>
-          <h3 className='font-bold text-2xl'>Webiste</h3>
-          <p><a href='/'>Visit website</a></p>
+          <h3 className='font-bold text-2xl'>Website</h3>
+          <p><a href={project.websiteUrl}>Visit website</a></p>
         </div>
       </div>
-      <div className="card large">
+      <div className="w-full">
           <img className="rounded-3xl" src={project.imageUrl} alt={project.name} />
+      </div>
+      <div className='flex mt-10'>
+        <div className='w-1/2'><h4 className='text-2xl'>{project.name}</h4></div>
+        <div className='w-1/2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </div>
       </div>
     </div>
   );

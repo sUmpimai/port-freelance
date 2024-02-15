@@ -16,7 +16,7 @@ function ProjectCard(props: ProjectCardProps) {
   return (
     <div className='pb-10'>
         <Link to={'/projects/' + project.id}>
-          <img src={project.imageUrl} alt={project.name} className='w-ful rounded-3xl' />
+          <img src={project.imageUrl} alt={project.name} className='w-full rounded-3xl duration-300 hover:-translate-y-1 hover:duration-300' />
           <section>       
               <h5 className="text-xl font-bold py-5 hover:text-sky-400">{project.name}</h5>
               <p>{formatDescription(project.description)}</p>

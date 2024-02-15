@@ -1,21 +1,15 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-interface HeaderProps {
-    isHome: boolean;
-}
-
-export default function Header(props: HeaderProps) {
-    const isHome = props;
-
+export default function Header() {
     return (
-        <header className={`sticky top-0 z-40 w-full ${isHome ? "bg-[#DFE6E8]" :" bg-[#ffffff]"}`}>
+        <header className='sticky top-0 z-40 w-full bg-white'>
             <div className='max-w-7xl mx-auto'>
-                <div className='py-4 lg:px-8 mx-4 lg:mx-0'>
+                <div className='py-8 mx-0'>
                     <div className='flex items-center justify-between'>
-                        <div className='text-slate-900 font-normal text-3xl w-auto'>
+                        <div className='text-slate-900 font-normal text-4xl w-auto'>
                             <NavLink to="/">
-                                Suwi UM.
+                                <span className='inline-block w-10 h-10 border-4 border-[#334155] text-center'>S.</span>
                             </NavLink>
                         </div>
                         <div className='flex items-center text-slate-900 space-x-5'>

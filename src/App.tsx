@@ -10,6 +10,7 @@ import Header from './header/Header';
 import Hero from './hero/Hero';
 import Contact from './contact/Contact';
 import Footer from './footer/Footer';
+import HomePage from './home/HomePage';
 
 // import ProjectsPage from './projects/ProjectsPage';
 const ProjectsPage = React.lazy(() => import('./projects/ProjectsPage'));
@@ -20,14 +21,14 @@ const ProjectPage = React.lazy(() => import('./projects/ProjectPage'));
 function App() {
   return (
     <Router>
-      <Header isHome={false} />
+      <Header />
       <Routes>
-        <Route path="/" element={<Hero />} />
+        <Route path="/" element={<><HomePage/><ProjectsPage title={false} /></>} />
         <Route
           path="/projects"
           element={
             <React.Suspense fallback={<>...</>}>
-              <ProjectsPage />
+              <ProjectsPage title={true} />
             </React.Suspense>
           }
         />
@@ -46,6 +47,7 @@ function App() {
           }
         />
       </Routes>
+      <Footer/>
     </Router>
   );
 }
